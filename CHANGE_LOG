@@ -1,0 +1,29 @@
+VirtualEngineIO/1.7.0.0
+
+VirtualEngineIO has been updated to version 1.7.
+
+- Better logic for Gear button
+
+----------------------------------------------------------------------------
+
+
+VirtualEngineIO has been updated to version 1.6.
+
+- Better analog potentiometer logic
+
+----------------------------------------------------------------------------
+
+VirtualEngineIO has been updated to version 1.5.
+
+- Gear button added
+- Message line encoding changed to CR+LF.
+
+----------------------------------------------------------------------------
+
+VirtualEngineIO has been updated to version 1.4.
+
+- Three analog inputs are now faked with just one single potentiometer
+- Pin mappings are changed
+- "ICON 7" (front light) has changed mode to "Press/Release"
+- Other minor changes...
+
